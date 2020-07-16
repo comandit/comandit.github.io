@@ -1,0 +1,77 @@
+[
+    {
+        "item": 1,
+        "idPedido": 1,
+        "produto": {
+            "idProduto": 101,
+            "nomeProduto": "PZP 3 QUEIJOS",
+            "nomeProdutoCardapio": "3 Queijos",
+            "ingredientesProdutoCardapio": "Mussarela, Parmesão e Provolone",
+            "valorProduto": 8.00,
+            "disponivel": true,
+            "ativo": true
+        },
+        "quantidadePedido": 3,
+        "valorPedido": null,
+        "valorTotal": 24.00,
+        "observacaoPedido": null,
+        "pedidoHistorico": null
+    },
+    {
+        "item": 2,
+        "idPedido": 2,
+        "produto": {
+            "idProduto": 102,
+            "nomeProduto": "PZP 4 QUEIJOS",
+            "nomeProdutoCardapio": "4 Queijos",
+            "ingredientesProdutoCardapio": "Mussarela, Parmesão, Provolone e Gorgonzola",
+            "valorProduto": 9.00,
+            "disponivel": true,
+            "ativo": true
+        },
+        "quantidadePedido": 4,
+        "valorPedido": null,
+        "valorTotal": 36.00,
+        "observacaoPedido": null,
+        "pedidoHistorico": null
+    },
+    {
+        "item": 3,
+        "idPedido": 3,
+        "produto": {
+            "idProduto": 502,
+            "nomeProduto": "AGUA C/ GAS",
+            "nomeProdutoCardapio": "Água Com Gás",
+            "ingredientesProdutoCardapio": null,
+            "valorProduto": 3.00,
+            "disponivel": true,
+            "ativo": true
+        },
+        "quantidadePedido": 1,
+        "valorPedido": null,
+        "valorTotal": 3.00,
+        "observacaoPedido": "COM GELO E LIMAO",
+        "pedidoHistorico": {
+            "idPedidoHistorico": 966,
+            "dataPedido": "2020-05-04T16:32:03.000-03:00"
+        }
+    },
+    {
+        "item": 4,
+        "idPedido": 6,
+        "produto": {
+            "idProduto": 401,
+            "nomeProduto": "PNQ 3 QUEIJOS",
+            "nomeProdutoCardapio": "3 Queijos",
+            "ingredientesProdutoCardapio": null,
+            "valorProduto": 14.00,
+            "disponivel": true,
+            "ativo": true
+        },
+        "quantidadePedido": 2,
+        "valorPedido": 12.90,
+        "valorTotal": 12.90,
+        "observacaoPedido": null,
+        "pedidoHistorico": null
+    }
+]

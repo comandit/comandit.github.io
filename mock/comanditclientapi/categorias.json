@@ -1,0 +1,80 @@
+[
+    {
+        "idProdutoCategoria": 3,
+        "nomeCategoria": "BATATA",
+        "nomeCategoriaCardapio": "Batatas",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 5,
+        "nomeCategoria": "BEBIDA",
+        "nomeCategoriaCardapio": "Bebidas",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 13,
+        "nomeCategoria": "COQUETEL",
+        "nomeCategoriaCardapio": "Coquetéis",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 14,
+        "nomeCategoria": "DESTILADO",
+        "nomeCategoriaCardapio": "Destilados",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 12,
+        "nomeCategoria": "DRINK",
+        "nomeCategoriaCardapio": "Drinks",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 7,
+        "nomeCategoria": "ESPETO",
+        "nomeCategoriaCardapio": "Espetos",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 11,
+        "nomeCategoria": "ESPETO DOCE",
+        "nomeCategoriaCardapio": "Espetos Doces",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 10,
+        "nomeCategoria": "LANCHE",
+        "nomeCategoriaCardapio": "Lanches",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 4,
+        "nomeCategoria": "PANQUECA",
+        "nomeCategoriaCardapio": "Panquecas",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 2,
+        "nomeCategoria": "PIZZA INTEIRA",
+        "nomeCategoriaCardapio": "Pizzas",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 6,
+        "nomeCategoria": "PIZZA PEDACO",
+        "nomeCategoriaCardapio": "Pizzas",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 9,
+        "nomeCategoria": "PORCAO FRIA",
+        "nomeCategoriaCardapio": "Porções Frias",
+        "ativo": true
+    },
+    {
+        "idProdutoCategoria": 8,
+        "nomeCategoria": "PORCAO QUENTE",
+        "nomeCategoriaCardapio": "Porções Quentes",
+        "ativo": true
+    }
+]
